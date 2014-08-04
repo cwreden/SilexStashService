@@ -45,3 +45,8 @@ array(
     ...                           // all stash known options
 );
 </code></pre>
+
+
+### Links
+
+ - [Stash](http://www.stashphp.com/index.html)
