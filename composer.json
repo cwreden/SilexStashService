@@ -27,7 +27,8 @@
     },
     "autoload": {
         "psr-0": {
-            "CWreden": "src/"
+            "CWreden": "src/",
+            "Test": "test/"
         }
     }
 }
